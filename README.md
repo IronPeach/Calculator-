@@ -1,2 +1,3 @@
-# Calculator-
-Better than Calculator
+# Calculator++
+---
+## Feels like Calculator, Beyond Calculator
