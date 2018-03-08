@@ -1,3 +1,3 @@
 # Calculator++
 ---
-## Feels like Calculator, Beyond Calculator
+## Feels like Calculator, Beyond Calculator~
